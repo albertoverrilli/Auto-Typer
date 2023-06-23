@@ -1,4 +1,4 @@
 # Auto-Typer
 Auto Typer
 
-Types whatever text you give it in the varible "Text" you can adjust the speed with by changeing how long it sleeps for, start with "[" and end with "]". Its a little fucked up but gets the job done. 
+Type text into the text box. You can adjust the time between characters using the time.sleep function. The functions of the buttons are self-explanatory
